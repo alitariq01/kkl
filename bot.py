@@ -1,4 +1,3 @@
-echo hello
-cd /storage/emulated/0/
 cd
-ls
+git clone https://github.com/alitariq01/ttl
+
